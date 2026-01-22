@@ -1,5 +1,5 @@
 
-  <script type="module">
+ 
     import { initializeApp } from "https://www.gstatic.com/firebasejs/12.8.0/firebase-app.js";
     import {
       getFirestore,
@@ -28,4 +28,3 @@
     }
 
     testFirebase();
-  </script>
